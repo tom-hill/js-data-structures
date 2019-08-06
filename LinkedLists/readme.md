@@ -7,7 +7,7 @@ This is an example linked list class written in Javascript. It is a simple imple
 | ------------------------------- | ----- |
 | getting data                    | O(n)  |
 | insert or remove from beginning | O(1)  |
-| insert or remove from end       | O(n)  |
+| insert or remove from end       | O(1)  |
 | insert or remove from middle    | O(n)  |
 
 ### Useful For
