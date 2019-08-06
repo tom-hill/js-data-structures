@@ -1,0 +1,12 @@
+{
+  "name": "js-data-structures",
+  "version": "1.0.0",
+  "description": "Examples of Data structures written with Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tom Hill <tp.hill.uk@gmail.com>",
+  "license": "ISC"
+}
